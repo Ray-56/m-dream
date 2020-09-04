@@ -6,6 +6,7 @@
 
 - [x] 每日算法
 - [x] 📃[浅说 XSS 和 CSRF](https://github.com/dwqs/blog/issues/68)
+- [x] 📃[干货！防运营商劫持](https://juejin.im/post/6844903713669283847)
 
 ### 3日
 
