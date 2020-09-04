@@ -2,6 +2,11 @@
 
 ## 9月
 
+### 4日
+
+- [x] 每日算法
+- [x] 📃[浅说 XSS 和 CSRF](https://github.com/dwqs/blog/issues/68)
+
 ### 3日
 
 - [x] 每日算法
@@ -10,5 +15,5 @@
 ### 2日
 
 - [x] 每日算法
-- [x] Linux 系统目录结构
-- [x] 《33个概念》基本过了一下
+- [x] 🖋[Linux 系统目录结构](https://github.com/guokangf/m-dream/issues/32)
+- [x] 📃[33个概念](https://github.com/stephentian/33-js-concepts#18-settimeout-setinterval-%E5%92%8C-requestanimationframe)基本过了一下
