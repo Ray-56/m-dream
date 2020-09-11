@@ -18,7 +18,7 @@
 
 - [x] 每日算法
 - [x] 📚《JS正则迷你书》第一章 字符组`[]`，量词`{}`,`? + *`
-- [x] [oeasy 带你学 Linux 之零基础快速上手](https://www.lanqiao.cn/courses/2712) 一二三阶段
+- [x] [oeasy 带你学 Linux 之零基础快速上手](https://www.lanqiao.cn/courses/2712)
 
 ### 8日
 
@@ -37,7 +37,7 @@
 
 ### 5日
 
-打球伤到尾椎骨，修养ing。看了d🎬《信条》
+打球伤到尾椎骨，修养ing。看了🎬《信条》
 
 ### 4日
 
