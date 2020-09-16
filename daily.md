@@ -8,6 +8,12 @@
 
 - [x] 每日算法
 - [x] 赫夫曼编码
+- [x] [从零实现React16与Hooks源码](https://www.bilibili.com/video/BV16V411672B)
+  下面这些没有讲到
+  1. expirationTime 任务的优先级 任务调度 超时处理
+  2. reconcile domdiff的 key 优化
+  3. 合成事件 SyntheticEvent
+  4. ref useEffect 等
 
 ### 15日
 
