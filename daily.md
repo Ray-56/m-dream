@@ -7,6 +7,7 @@
 ### 21日
 
 - [x] 每日算法
+- [x] Git Magic 配合 Learning Git Branching 堪称一绝
 
 ### 第三周总结
 
