@@ -4,13 +4,18 @@
 
 ## 10月
 
-### 2日
+### 10日
+
+- [x] 每日算法
+- [x] [有哪些带团队的好方法？](https://www.zhihu.com/question/19658901)
+
+### 9日
 
 - [x] 每日算法
 - [x] 《JavaScript20年》
 - [x] [React源码，你在第几层](https://www.bilibili.com/video/BV1Ki4y1u7Vr)
 
-### 1日
+### 8日
 
 > 假日回归，收心工作、学习
 
