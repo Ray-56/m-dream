@@ -4,6 +4,11 @@
 
 ## 10月
 
+### 12日
+
+- [x] 每日算法
+- [x] [React技术揭秘](https://react.iamkasong.com/)
+
 ### 11日
 
 - [x] 每日算法
