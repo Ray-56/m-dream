@@ -6,6 +6,11 @@
 
 # 12月
 
+## 24日
+
+- Nestjs + Graphql 尝鲜
+- React.Suspense 简洁写法，`throw Promise.resolve()` 抛出 Promise 即可
+
 ## 21日
 
 - 冬至了，和媳妇在家包了饺子
