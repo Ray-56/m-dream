@@ -6,6 +6,12 @@
 
 # 3月
 
+## 8日
+
+- Runoob C Language - 语言实例（32）
+
+--- 
+
 ## 5日
 
 - Runoob C Language - 语言实例（20）
