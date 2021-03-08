@@ -9,6 +9,7 @@
 ## 8日
 
 - Runoob C Language - 语言实例（32）
+- 小甲鱼C语言 p29
 
 --- 
 
