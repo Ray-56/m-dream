@@ -6,6 +6,21 @@
 
 # 3月
 
+## 17日
+
+- Runoob C Language - 经典100（66）
+- LCTHW-ex11
+```C
+int c[] = "A";
+sizeof(c); // 2
+
+// 原因是在结尾加了 \0 。**字符串等价于字符数组**
+```
+
+## 16日
+
+- Runoob C Language - 经典100（41）
+
 ## 15日
 
 - Runoob C Language - 经典100（31）
