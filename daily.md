@@ -6,6 +6,10 @@
 
 # 3月
 
+## 19日
+
+- 了解 Notion Application
+
 ## 18日
 
 - LCTHW-ex17
