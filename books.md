@@ -22,5 +22,6 @@
 - [x] **《乔布斯传》**
 - [ ] **《我的天才女友》**
 - [ ] **《平凡的世界》**
-- [x] **《深入理解 TypeScript》**
-- [x] **《CSAPP》**
+- [x] **《[深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)》**
+- [ ] **《CSAPP》**
+- [x] **《汇编语言 第四版 王爽著》**
